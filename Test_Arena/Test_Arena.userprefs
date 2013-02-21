@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\Robot_ThirdPersonController.js">
+    <Files>
+      <File FileName="Assets\punchLogic.js" Line="39" Column="3" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\Robot_ThirdPersonController.js" Line="392" Column="6" />
+      <File FileName="Assets\SoldierCharacterPack\enemySoldierLogic.js" Line="8" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
